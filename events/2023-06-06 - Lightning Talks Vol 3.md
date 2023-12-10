@@ -1,3 +1,0 @@
-- [Sergio Picca - Cost Optimization on Google Cloud](https://drive.google.com/file/d/1F_EwfpI5HHtmoxtt5Sgf68aXxGcBXeAY/view?usp=drive_link)
-- [Alessio Marinelli - Panoramica delle Reti Mobili e 5G](https://docs.google.com/presentation/d/13DFGcaqW4shYLt1dzphaR3ESxODyjD-r/edit?usp=drive_link&ouid=112303628794036414454&rtpof=true&sd=true)
-- [Gabriele Quaresima - KubeCon & Operatori Kubernetes](https://drive.google.com/file/d/1eTHvg4haLCiEo3oS5tJit0BZ5OAov18N/view?usp=drive_link)
