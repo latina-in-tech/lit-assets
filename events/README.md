@@ -37,7 +37,7 @@ stato concesso per una fruizione pubblica dai rispettivi autori.
 | Titolo | Autore | Asset |
 | --- | --- | --- |
 | Cost Optimization on Google Cloud | [Sergio Picca](https://www.linkedin.com/in/sergio-picca/) | [PDF](https://drive.google.com/file/d/1JXRR6Iy4YIfQ8g1fv6Td4DIKICnC2PLx/view?usp=drive_link) |
-| Le Reti Mobili e il 5G | [Alessio Marinelli](LINK) <!-- TODO --> | [PDF](https://drive.google.com/file/d/1wLsihdxOi2Njy5EcMIuzI1OvneTy0Syp/view?usp=drive_link) |
+| Le Reti Mobili e il 5G | [Alessio Marinelli](https://www.linkedin.com/in/alessio-marinelli/) | [PDF](https://drive.google.com/file/d/1wLsihdxOi2Njy5EcMIuzI1OvneTy0Syp/view?usp=drive_link) |
 | KubeCon ed Operatori Kubernates | [Gabriele Quaresima](https://www.linkedin.com/in/gabriele-quaresima/) | [PDF](https://drive.google.com/file/d/1upa5QdHkIqvdVUy2Kb8aQTtsSmP4bfwG/view?usp=drive_link) |
 
 # 09 Mag 2023
