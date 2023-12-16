@@ -16,7 +16,7 @@ stato concesso per una fruizione pubblica dai rispettivi autori.
 | PostgreSQL vs MongoDB | [Enrico Bianchi](https://www.linkedin.com/in/enricobianchi80/) | [PDF](https://drive.google.com/file/d/1twYdlGiIZ7KTvGuBWNLfTP9Xxp3PXJ4c/view?usp=drive_link) |
 | Introduzione a GIT | [Andrea Coluzzi](https://www.linkedin.com/in/andrea-coluzzi/) e [Lorenza Ceglia](https://www.linkedin.com/in/lorenzo-ceglia/) | [PDF](https://drive.google.com/file/d/1gufDdzMBBGnaHJXwVwVsjXuTrIIDjuJZ/view?usp=drive_link) |
 | Python for High School | [Roberto Polli](https://www.linkedin.com/in/rpolli/) | [GitHub](https://github.com/ioggstream/python-course/tree/main/python-high-school) |
-| TITOLO <!--TODO--> | [Gabriele Torregrossa](https://www.linkedin.com/in/gabriele-torregrossa-3b638119b/) | [PDF](./assets/FILENAME) <!--TODO--> |
+| Container e Docker | [Gabriele Torregrossa](https://www.linkedin.com/in/gabriele-torregrossa-3b638119b/) | [PDF](https://drive.google.com/file/d/1qE1l7oskHa1RzV9S1fype5Sp-UTsmreT/view?usp=drive_link) |
 | Introduzione a Kubernetes | [Gabriele Quaresima](https://www.linkedin.com/in/gabriele-quaresima/) | [PDF](https://drive.google.com/file/d/1vZ_wagxDQtgWfOAkdjp7l0tgad0SZjBN/view?usp=drive_link) |
 | Arduino nell'Open-source | [Alessandra De Vitis](https://www.linkedin.com/in/alessandra-de-vitis-658a5940/) e [Oscar Di Manno](https://www.linkedin.com/in/oscar-di-manno/) | [PDF](https://drive.google.com/file/d/1B-sapIw6a5A8n4W7KvPWFRdzS_J5mcX6/view?usp=drive_link) |
 
