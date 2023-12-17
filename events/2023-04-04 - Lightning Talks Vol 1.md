@@ -1,2 +1,0 @@
-- [Andrea Coluzzi - Introduzione Alla Community](https://docs.google.com/presentation/d/15EB9S6YEHk3Sv7dRUOCRe0HO76ye41JtJBSGAgxekFo/edit?usp=drive_link)
-- [Luca Visentin - Nomadi Digitali, chi sono?](https://docs.google.com/presentation/d/1mbvY5LYAYPyfqFHgsMdkBksG9SMwdbbZiEQUJOdR7j4/edit#slide=id.p)
