@@ -2,13 +2,13 @@ Ciao! Puoi trovare qui tutto il materiale che è stato utilizzato negli scorsi e
 partecipato come organizzatrice o collaboratrice ed è
 stato concesso per una fruizione pubblica dai rispettivi autori.
 
-# 29 Nov 2023
+# 29 Nov 2023 | Presentazione Startup LazioInnova | [Spazio Attivo Latina - LazioInnova](https://www.lazioinnova.it/spazioattivo/sede-spazio-attivo/spazio-attivo-latina/)
 
 | Titolo | Autore | Asset |
 | --- | --- | --- |
 | LiT - Welcome! | [LiT](https://www.linkedin.com/company/latina-in-tech/) | [PDF](https://drive.google.com/file/d/1nsCw0WoYbxiHOYQaH23SHfiGB02rPWsG/view?usp=drive_link) |
 
-# 18 Nov 2023
+# 18 Nov 2023 | Linux Day 2023 | [OpenHub Lazio](https://openhublazio.it/it/gli-hub/hub-latina)
 
 | Titolo | Autore | Asset |
 | --- | --- | --- |
@@ -20,19 +20,19 @@ stato concesso per una fruizione pubblica dai rispettivi autori.
 | Introduzione a Kubernetes | [Gabriele Quaresima](https://www.linkedin.com/in/gabriele-quaresima/) | [PDF](https://drive.google.com/file/d/1vZ_wagxDQtgWfOAkdjp7l0tgad0SZjBN/view?usp=drive_link) |
 | Arduino nell'Open-source | [Alessandra De Vitis](https://www.linkedin.com/in/alessandra-de-vitis-658a5940/) e [Oscar Di Manno](https://www.linkedin.com/in/oscar-di-manno/) | [PDF](https://drive.google.com/file/d/1B-sapIw6a5A8n4W7KvPWFRdzS_J5mcX6/view?usp=drive_link) |
 
-# 22 Set 2023
+# 22 Set 2023 | Under the hood at Klarna: Managing Digital Gift Cards and Leveraging AI | [The SPACE Coworking](https://www.thespacecoworking.website/)
 
 | Titolo | Autore | Titolo | Autore | Titolo | Autore | Titolo | Autore | Asset |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LiT - Welcome! | [LiT](https://www.linkedin.com/company/latina-in-tech/) | Welcome to Klarna | [Antonio Trapani](https://www.linkedin.com/in/antoniotrapani/) | Gift Cards Team | [Andrea Coluzzi](https://www.linkedin.com/in/andrea-coluzzi/) | The New Gold Rush | [Antonio Trapani](https://www.linkedin.com/in/antoniotrapani/) | [PDF](https://drive.google.com/file/d/1ifyBJwKRySKLRShrvcMsej9mOHtO2Hf4/view?usp=drive_link) |
 
-# 29 Giu 2023
+# 29 Giu 2023 | La Giusta Relazione di Lavoro | [Viridex S.r.l.](https://www.viridex.it/)
 
 | Titolo | Autore | Asset |
 | --- | --- | --- |
 | La Giusta Relazione di Lavoro | [Antonio Dell'Ava](https://www.linkedin.com/in/antoniodellava/) | [PDF](https://drive.google.com/file/d/1iBckRkvpPYIA3xuz4httPBztt8mME_9G/view?usp=drive_link) |
 
-# 06 Giu 2023
+# 06 Giu 2023 | Lighting Talks Vol. 3 | [The SPACE Coworking](https://www.thespacecoworking.website/)
 
 | Titolo | Autore | Asset |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ stato concesso per una fruizione pubblica dai rispettivi autori.
 | Le Reti Mobili e il 5G | [Alessio Marinelli](https://www.linkedin.com/in/alessio-marinelli/) | [PDF](https://drive.google.com/file/d/1wLsihdxOi2Njy5EcMIuzI1OvneTy0Syp/view?usp=drive_link) |
 | KubeCon ed Operatori Kubernates | [Gabriele Quaresima](https://www.linkedin.com/in/gabriele-quaresima/) | [PDF](https://drive.google.com/file/d/1upa5QdHkIqvdVUy2Kb8aQTtsSmP4bfwG/view?usp=drive_link) |
 
-# 09 Mag 2023
+# 09 Mag 2023 | Lighting Talks Vol. 2 | [The SPACE Coworking](https://www.thespacecoworking.website/)
 
 | Titolo | Autore | Asset |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ stato concesso per una fruizione pubblica dai rispettivi autori.
 | Introduzione a Flutter | [Matteo Benin](https://www.linkedin.com/in/matteo-benin-28b11195/) | [PDF](https://drive.google.com/file/d/1QsklFWLbYZaYq2GH-GvvgjnNLow70qza/view?usp=drive_link) |
 | Coding Dojo e Test Driven Development | [Annamaria Coppola](https://www.linkedin.com/in/annamaria-coppola-9a301613/) | [PDF](https://drive.google.com/file/d/1CEQPQzARk6wY7954W9eSh5IEaM7SrYsR/view?usp=drive_link) |
 
-# 04 Apr 2023
+# 04 Apr 2023 | Lighting Talks | [The SPACE Coworking](https://www.thespacecoworking.website/)
 
 | Titolo | Autore | Asset |
 | --- | --- | --- |
