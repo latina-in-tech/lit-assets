@@ -6,7 +6,7 @@ stato concesso per una fruizione pubblica dai rispettivi autori.
 
 | Titolo                                          | Autore                                                                 | Asset                                                                                            |
 |-------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| A Journey Into Quantum Computing                | [Sara Marzella](https://www.linkedin.com/in/sara-marzella-050b22a3/)      | [PDF]([https://docs.google.com/presentation/d/1PhcdEWQuFT9IMcFcOODDIDD5w6TWaIo1/edit#slide=id.p1](https://drive.google.com/file/d/17AaPdp-fZEw_2ztrPw2-STLfJr14p7y3/view?usp=drive_link)) |
+| A Journey Into Quantum Computing                | [Sara Marzella](https://www.linkedin.com/in/sara-marzella-050b22a3/)      | [PDF](https://drive.google.com/file/d/17AaPdp-fZEw_2ztrPw2-STLfJr14p7y3/view?usp=drive_link) |
 | Quantum Computing And Post-quantum Cryptography | [Alessandro Danesin](https://www.linkedin.com/in/alessandro-danesin-920151268/) | [PDF](https://drive.google.com/file/d/1cQaQPTpZKiyA86lCZWyVE9-zpHLNztwF/view)     |
 
 # 21 Dic 2023 | Serverless senza segreti: Azure Functions, Node.js, GitHub Actions & Codespace | [The SPACE Coworking](https://www.thespacecoworking.website/) | [Video Youtube](https://www.youtube.com/watch?v=GNd-L3qPdPE)
