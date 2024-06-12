@@ -2,7 +2,21 @@ Ciao! Puoi trovare qui tutto il materiale che è stato utilizzato negli scorsi e
 partecipato come organizzatrice o collaboratrice ed è
 stato concesso per una fruizione pubblica dai rispettivi autori.
 
-# 29 Nov 2023 | Presentazione Startup LazioInnova | [Spazio Attivo Latina - LazioInnova](https://www.lazioinnova.it/spazioattivo/sede-spazio-attivo/spazio-attivo-latina/)
+# 05 Giu 2024 | Presentazione Quantum Computing | [DMXLAB](https://www.dmxlab.it/) | [Video Youtube](https://www.youtube.com/watch?v=mcDUyeZ7Cck)
+
+| Titolo                                          | Autore                                                                 | Asset                                                                                            |
+|-------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| A Journey Into Quantum Computing                | [Sara Marzella](https://www.linkedin.com/in/sara-marzella-050b22a3/)      | [PPT](https://docs.google.com/presentation/d/1PhcdEWQuFT9IMcFcOODDIDD5w6TWaIo1/edit#slide=id.p1) |
+| Quantum Computing And Post-quantum Cryptography | [Alessandro Danesin](https://www.linkedin.com/in/alessandro-danesin-920151268/) | [PDF](https://drive.google.com/file/d/1cQaQPTpZKiyA86lCZWyVE9-zpHLNztwF/view)     |
+
+# 21 Dic 2023 | Serverless senza segreti: Azure Functions, Node.js, GitHub Actions & Codespace | [The SPACE Coworking](https://www.thespacecoworking.website/) | [Video Youtube](https://www.youtube.com/watch?v=GNd-L3qPdPE)
+
+| Titolo                                          | Autore                                                               | Asset                                                                                            |
+|-------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Serverless senza segreti               | [Pinco pallino](https://www.linkedin.com/in/sara-marzella-050b22a3/) | [PPT](https://docs.google.com/presentation/d/1PhcdEWQuFT9IMcFcOODDIDD5w6TWaIo1/edit#slide=id.p1) |
+
+
+# 29 Nov 2023 | Presentazione Startup LazioInnova | [Spazio Attivo Latina - LazioInnova](https://www.lazioinnova.it/spazioattivo/sede-spazio-attivo/spazio-attivo-latina/) | [Video Youtube](https://www.youtube.com/watch?v=81DfVfQNycI)
 
 | Titolo | Autore | Asset |
 | --- | --- | --- |
@@ -32,7 +46,7 @@ stato concesso per una fruizione pubblica dai rispettivi autori.
 | --- | --- | --- |
 | La Giusta Relazione di Lavoro | [Antonio Dell'Ava](https://www.linkedin.com/in/antoniodellava/) | [PDF](https://drive.google.com/file/d/1iBckRkvpPYIA3xuz4httPBztt8mME_9G/view?usp=drive_link) |
 
-# 06 Giu 2023 | Lighting Talks Vol. 3 | [The SPACE Coworking](https://www.thespacecoworking.website/)
+# 06 Giu 2023 | Lighting Talks Vol. 3 | [The SPACE Coworking](https://www.thespacecoworking.website/) | [Video Youtube](https://www.youtube.com/watch?v=araCZjntJRw)
 
 | Titolo | Autore | Asset |
 | --- | --- | --- |
