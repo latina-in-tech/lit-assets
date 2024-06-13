@@ -36,9 +36,9 @@ stato concesso per una fruizione pubblica dai rispettivi autori.
 
 # 22 Set 2023 | Under the hood at Klarna: Managing Digital Gift Cards and Leveraging AI | [The SPACE Coworking](https://www.thespacecoworking.website/)
 
-| Titolo | Autore | Titolo | Autore | Titolo | Autore | Titolo | Autore | Asset |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| LiT - Welcome! | [LiT](https://www.linkedin.com/company/latina-in-tech/) | Welcome to Klarna | [Antonio Trapani](https://www.linkedin.com/in/antoniotrapani/) | Gift Cards Team | [Andrea Coluzzi](https://www.linkedin.com/in/andrea-coluzzi/) | The New Gold Rush | [Antonio Trapani](https://www.linkedin.com/in/antoniotrapani/) | [PDF](https://drive.google.com/file/d/1ifyBJwKRySKLRShrvcMsej9mOHtO2Hf4/view?usp=drive_link) |
+| Titolo | Autore | Asset |
+| --- | --- | --- |
+| LiT - Welcome! <br/> Welcome to Klarna <br/>Gift Cards Team <br/> The New Gold Rush | [LiT](https://www.linkedin.com/company/latina-in-tech/) </br> [Antonio Trapani](https://www.linkedin.com/in/antoniotrapani/) <br/> [Andrea Coluzzi](https://www.linkedin.com/in/andrea-coluzzi/) <br/> [Antonio Trapani](https://www.linkedin.com/in/antoniotrapani/) | [PDF](https://drive.google.com/file/d/1ifyBJwKRySKLRShrvcMsej9mOHtO2Hf4/view?usp=drive_link) |
 
 # 29 Giu 2023 | La Giusta Relazione di Lavoro | [Viridex S.r.l.](https://www.viridex.it/)
 
